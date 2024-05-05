@@ -4,8 +4,7 @@ A very simple Non destructive solution to reset Windows Password
 
 Download iso from below link
 
-https://drive.google.com/file/d/1meeXs9xO36O3no_h78XOASiiHkVMNOSZ/view?usp=sharing
-
+https://drive.google.com/drive/folders/1d8CPCuX50D9CB7QFc2BelniUAbwfTWFR?usp=sharing
 
 Steps:-
 
